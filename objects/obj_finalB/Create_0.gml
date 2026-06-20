@@ -1,0 +1,1 @@
+meu_botao = instance_create_depth(x, y+80, layer, obj_botaoFb);
