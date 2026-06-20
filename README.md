@@ -67,3 +67,30 @@ Projeto desenvolvido por estudantes com o objetivo de utilizar jogos digitais co
 
 > Nem toda oferta é o que parece. Pense antes de clicar.
 ```
+## 🎨 Créditos
+
+### Artes
+
+**Menu**
+
+* Andrei Diz Schmitt
+
+**Gameplay e Finais**
+
+* Guilherme Perazzolo Amoretti
+
+### Programação
+
+* Nicolas Alves Freire da Silva
+
+### Apoio e Conscientização
+
+Este projeto foi desenvolvido em parceria com a ONG **UM Grito Pela Vida**, organização dedicada ao combate ao tráfico de pessoas, à prevenção da exploração humana e à promoção da conscientização sobre essa temática.
+
+A colaboração da organização contribuiu para que o jogo abordasse o assunto de forma educativa, responsável e alinhada com ações reais de prevenção.
+
+## 🤝 Agradecimentos
+
+Agradecemos a todos os envolvidos no desenvolvimento deste projeto e à ONG Grito Pela Vida pelo apoio e pela importante atuação na luta contra o tráfico de pessoas.
+
+Esperamos que esta experiência incentive a reflexão, o senso crítico e a busca por informações seguras diante de oportunidades que podem esconder situações de exploração.
