@@ -1,5 +1,5 @@
 ```md
-# ✈️ Viagem dos Sonhos
+# ✈️ TravelUp
 
 Um jogo de conscientização sobre o tráfico de pessoas disfarçado de uma simples experiência de compras online.
 
