@@ -115,6 +115,7 @@ if (room == FinalRuim){
 	if (tempop > tempocc){
 		if (instance_exists(obj_finalB)){
 			obj_botaoFb.text = "Você Sempre Pode Tentar Novamente. Cuidado Com Oportunidades Boas De Mais";
+			global.mudadecor = true;
 		}
 		global.ok = true;
 	}

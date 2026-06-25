@@ -35,6 +35,7 @@
     {"name":"obj_popup3","order":3,"path":"objects/obj_popup3/obj_popup3.yy",},
     {"name":"obj_Sb","order":1,"path":"objects/obj_Sb/obj_Sb.yy",},
     {"name":"obj_tutorial","order":1,"path":"objects/obj_tutorial/obj_tutorial.yy",},
+    {"name":"obj_tutorial2","order":3,"path":"objects/obj_tutorial2/obj_tutorial2.yy",},
     {"name":"AInicio","order":1,"path":"rooms/AInicio/AInicio.yy",},
     {"name":"FinalRuim","order":2,"path":"rooms/FinalRuim/FinalRuim.yy",},
     {"name":"Menu","order":3,"path":"rooms/Menu/Menu.yy",},
@@ -45,6 +46,7 @@
     {"name":"spr_bkfim","order":1,"path":"sprites/spr_bkfim/spr_bkfim.yy",},
     {"name":"spr_botao_1","order":1,"path":"sprites/spr_botao_1/spr_botao_1.yy",},
     {"name":"spr_botaodesl","order":1,"path":"sprites/spr_botaodesl/spr_botaodesl.yy",},
+    {"name":"spr_coin","order":2,"path":"sprites/spr_coin/spr_coin.yy",},
     {"name":"spr_fechajanela","order":1,"path":"sprites/spr_fechajanela/spr_fechajanela.yy",},
     {"name":"spr_Gpv","order":3,"path":"sprites/spr_Gpv/spr_Gpv.yy",},
     {"name":"spr_Pb","order":1,"path":"sprites/spr_Pb/spr_Pb.yy",},
@@ -52,6 +54,7 @@
     {"name":"spr_popup1_1","order":4,"path":"sprites/spr_popup1_1/spr_popup1_1.yy",},
     {"name":"spr_popup1","order":1,"path":"sprites/spr_popup1/spr_popup1.yy",},
     {"name":"spr_popup2","order":2,"path":"sprites/spr_popup2/spr_popup2.yy",},
+    {"name":"spr_popuptut","order":5,"path":"sprites/spr_popuptut/spr_popuptut.yy",},
     {"name":"spr_Sb","order":2,"path":"sprites/spr_Sb/spr_Sb.yy",},
   ],
 }
