@@ -85,7 +85,7 @@ Projeto desenvolvido por estudantes com o objetivo de utilizar jogos digitais co
 
 ### Apoio e Conscientização
 
-Este projeto foi desenvolvido em parceria com a ONG **UM Grito Pela Vida**, organização dedicada ao combate ao tráfico de pessoas, à prevenção da exploração humana e à promoção da conscientização sobre essa temática.
+Este projeto foi desenvolvido em parceria com a **REDE UM GRITO PELA VIDA**, organização dedicada ao combate ao tráfico de pessoas, à prevenção da exploração humana e à promoção da conscientização sobre essa temática.
 
 A colaboração da organização contribuiu para que o jogo abordasse o assunto de forma educativa, responsável e alinhada com ações reais de prevenção.
 
