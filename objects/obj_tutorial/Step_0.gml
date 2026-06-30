@@ -11,7 +11,7 @@ if (mouse_check_button_pressed(mb_left)) {
 	if (i == 1 && !instance_exists(obj_janela)) {
 		inter = true;
 		global.dialogo = false;
-		if (!instance_exists(obj_tutorial2)){
+		if (!instance_exists(obj_tutorial2) && global.tutok = false){
 			instance_create_depth(960,540,-1599,obj_tutorial2);
 		}
 		exit;

@@ -1,9 +1,7 @@
-if (room == AInicio){
-	if (global.ini){
+if (room == AInicio){	if (global.ini){
 		if (!para){
+			var quanti = instance_number(obj_popup1) + instance_number(obj_popup2) + instance_number(obj_popup3);
 			tempo += delta_time / 1000000;
-				show_debug_message(tempo);
-				show_debug_message(temof);
 				if (tempo >= temof) {
 
 					var escolha = irandom_range(1,3);
@@ -32,31 +30,24 @@ if (room == AInicio){
 						break;
 					}
 
-					var spawn_x = irandom_range(min_x + 10, max_x - largura);
-					var spawn_y = irandom_range(min_y + 10, max_y - altura);
+					if (quanti <= 10 ){
+						var spawn_x = irandom_range(min_x + 10, max_x - largura);
+						var spawn_y = irandom_range(min_y + 10, max_y - altura);
 
-					// cada popup novo fica na frente dos anteriores
-					global.popup_depth -= 10;
-
-					var popup = instance_create_depth(
-						spawn_x,
-						spawn_y,
-						global.popup_depth,
-						pp
-					);
-					audio_play_sound(Sound_popup,1,false);
-
-					show_debug_message("foi");
+						// cada popup novo fica na frente dos anteriores
+						global.popup_depth -= 10;
+						
+						var popup = instance_create_depth(spawn_x, spawn_y, global.popup_depth, pp);
+						audio_play_sound(Sound_popup,1,false);
+					}
 
 					temof = irandom(6);
 					show_debug_message(temof);
 
 					tempo = 0;
 				}
-	
-			show_debug_message(global.pont);
 		}
-		if (global.pont< -5){
+		if (global.pont <= -5){
 			para = true;
 			room_goto(FinalRuim);
 		} 
@@ -115,7 +106,6 @@ if (room == FinalRuim){
 	if (tempop > tempocc){
 		if (instance_exists(obj_finalB)){
 			obj_botaoFb.text = "Você Sempre Pode Tentar Novamente. Cuidado Com Oportunidades Boas De Mais";
-			global.mudadecor = true;
 		}
 		global.ok = true;
 	}

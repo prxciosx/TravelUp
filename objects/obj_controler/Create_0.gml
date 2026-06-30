@@ -31,3 +31,5 @@ global.erros = 0;
 global.acertos = 0;
 
 global.mudadecor = false;
+
+global.tutok = false;
