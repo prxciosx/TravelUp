@@ -91,6 +91,6 @@ A colaboração da organização contribuiu para que o jogo abordasse o assunto 
 
 ## 🤝 Agradecimentos
 
-Agradecemos a todos os envolvidos no desenvolvimento deste projeto e à [REDE UM GRITO PELA VIDA](https://gritopelavida.blogspot.com/) em parceria com [Talitha Kum Internacional](https://www.talithakum.info/pt/) pelo apoio e pela importante atuação na luta contra o tráfico de pessoas.
+Agradecemos a todos os envolvidos no desenvolvimento deste projeto e à [REDE UM GRITO PELA VIDA]([https://gritopelavida.blogspot.com/](https://redeumgritopelavida.crbnacional.org.br/) em parceria com [Talitha Kum Internacional](https://www.talithakum.info/pt/) pelo apoio e pela importante atuação na luta contra o tráfico de pessoas.
 
 Esperamos que esta experiência incentive a reflexão, o senso crítico e a busca por informações seguras diante de oportunidades que podem esconder situações de exploração.
